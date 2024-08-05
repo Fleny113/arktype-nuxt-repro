@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "arktype": "2.0.0-dev.25",
-    "nuxt": "^3.12.2",
+    "nuxt": "^3.12.4",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   }
